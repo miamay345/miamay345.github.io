@@ -3146,7 +3146,7 @@
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
-		color: #fff;
+		color: #999999; /* change nav color */
 		padding: 12em 0 20em 0;
 		text-align: center;
 	}
